@@ -33,8 +33,6 @@ int main()
 		default:
 			n3 = 1;
 	}
-	printf("%f\n", n1);
-	printf("%f\n", n2);
 	printf("Result: %.2f\n", n3);
 	return 0;
 }
